@@ -13,5 +13,4 @@ class CalculatorTest {
         assertEquals(2, calculator.add(1, 1));
     }
 
-
 }
